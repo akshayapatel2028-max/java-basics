@@ -20,10 +20,6 @@
 ✅ replace()
 
 🔄 Currently Learning
-- trim()
-- isEmpty()
-- String Programs
-
 🔜 Methods
 🔜 Classes & Objects
 🔜 Constructors
